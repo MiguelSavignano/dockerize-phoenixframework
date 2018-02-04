@@ -1,0 +1,22 @@
+# ignore README.md
+README.md
+
+# ignore .env.sample .gitignore .git .dockerignore
+.env.sample
+.gitignore
+.git
+.dockerignore
+
+# ignore docker-compose.yml and dockerbuild.sh
+docker-compose.yml
+dockerbuild.sh
+
+# ignore infrastructure folder
+infrastructure
+!infrastructure/docker/erlang/entrypoint.sh
+
+# ignore docker folder (only the one in project root)
+docker
+
+# ignore test folder
+test
