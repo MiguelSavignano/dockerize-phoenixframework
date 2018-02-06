@@ -10,8 +10,10 @@
 | NodeJs | 8.9.1 |
 
 ## Install
+```
 docker-compose build
 docker-compose up
+```
 
 ## Content
 
