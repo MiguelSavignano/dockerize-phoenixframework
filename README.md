@@ -1,8 +1,9 @@
 # Dockerize Phoenix framework
 
 ## Stack
-|                              |  |
-|---|---|---|
+
+|  | Version  |
+| --- | --- |
 | Elixir | 1.6.1 |
 | Phoenix framework | 1.3.0 |
 | Database | postgresql |
